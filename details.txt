@@ -1,0 +1,5 @@
+Splay Tree is a self-adjusting BST (Binary Search Tree).
+It follows the same principles.
+They are also balanced trees and use rotations to get balanced. 
+Unlike AVL trees they are not completely balanced which is good feature of these trees as it is easier to search for recent items in this tree.
+This data structure is widely in building caches where you need to access the recently used items.
