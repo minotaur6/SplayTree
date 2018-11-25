@@ -1,5 +1,5 @@
 # SPLAY TREE
-* JAVA CODE *
+*JAVA CODE*
 
 
 Splay Tree is a self-adjusting BST (Binary Search Tree), it follows the 
